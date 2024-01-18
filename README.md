@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Thiago Ether 👋
 
 - 🔭 Hoje estou a procura do meu primeiro emprego como Dev
+- 🖥️ C#
+- 🐍 Python
 - 🐍 Apredendo Django
 - 😄 Pronouns: ele/dele
 
